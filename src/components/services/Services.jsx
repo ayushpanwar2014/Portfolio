@@ -43,23 +43,23 @@ const Services = () => {
       </motion.div>
       <motion.div variants={variants} className="listContainer">
         <motion.div className="box" whileHover={{background: "lightgray", color: "black"}}>
-            <h2>Branding</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, natus praesentium velit soluta dolor, exercitationem quaerat doloremque consequatur fugiat dolores perspiciatis! A eveniet esse sunt autem ratione incidunt, unde vero.</p>
+            <h2>Custom Web Application Development:</h2>
+            <p>Offer custom web application development services using React for frontend development and JavaScript or Python for backend development, leveraging your expertise in building interactive and scalable web applications tailored to clients' specific requirements.</p>
         <button>Go </button>
         </motion.div>
         <motion.div className="box" whileHover={{background: "lightgray", color: "black"}}>
-            <h2>Branding</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, natus praesentium velit soluta dolor, exercitationem quaerat doloremque consequatur fugiat dolores perspiciatis! A eveniet esse sunt autem ratione incidunt, unde vero.</p>
+            <h2>Cross-Platform Mobile App Development:</h2>
+            <p>Provide cross-platform mobile app development services using React Native, allowing clients to reach a wider audience across multiple devices and platforms with a single codebase, while also utilizing backend technologies such as JavaScript or Python for server-side logic.</p>
         <button>Go </button>
         </motion.div>
         <motion.div className="box" whileHover={{background: "lightgray", color: "black"}}>
-            <h2>Branding</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, natus praesentium velit soluta dolor, exercitationem quaerat doloremque consequatur fugiat dolores perspiciatis! A eveniet esse sunt autem ratione incidunt, unde vero.</p>
+            <h2>Algorithm Design and Optimization Services:</h2>
+            <p>Offer algorithm design and optimization services using C++ and data structures, helping clients optimize performance, scalability, and efficiency of their software systems and applications.</p>
         <button>Go </button>
         </motion.div>
         <motion.div className="box" whileHover={{background: "lightgray", color: "black"}}>
-            <h2>Branding</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, natus praesentium velit soluta dolor, exercitationem quaerat doloremque consequatur fugiat dolores perspiciatis! A eveniet esse sunt autem ratione incidunt, unde vero.</p>
+            <h2>Custom API Development:</h2>
+            <p>Develop custom APIs (Application Programming Interfaces) using JavaScript or Python for backend logic, integrate with database systems for data storage and retrieval, and provide clients with robust and scalable APIs for integrating their applications with external systems and services.</p>
         <button>Go </button>
         </motion.div>
       </motion.div>
