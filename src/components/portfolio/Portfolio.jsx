@@ -1,4 +1,5 @@
 import { useRef } from "react"
+import React from "react";
 import "./Portfolio.scss"
 import { motion, useScroll, useSpring, useTransform } from "framer-motion"
 

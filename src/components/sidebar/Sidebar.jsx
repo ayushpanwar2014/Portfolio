@@ -3,6 +3,7 @@ import "./Sidebar.scss"
 import Links from "./links/Links"
 import ToggleButton from "./toggleButton/ToggleButton"
 import { delay, motion } from "framer-motion"
+import React from "react";
 
 const variants = {
     open : {

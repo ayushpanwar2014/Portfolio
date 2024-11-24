@@ -7,6 +7,7 @@ import Parallax from "./components/parallax/Parallax";
 import Portfolio from "./components/portfolio/Portfolio";
 import Services from "./components/services/Services";
 import Test from "./Test.jsx"
+import React from "react";
 
 
 const App = () => {
