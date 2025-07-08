@@ -17,6 +17,7 @@ const Navbar = () => {
         <div className="social">
             <a href="https://github.com/ayushpanwar2014" rel="noreferrer" target="_blank" ><img src="./github.png" alt="" /></a>
             <a href="https://www.linkedin.com/in/ayush-panwar-a21712189" rel="noreferrer" target="_blank" ><img src="./linkedin.png" alt="" /></a>
+            <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-acme--jobseeker-contributions-webapp" rel="noreferrer" target="_blank" ><img src="./indeed.jpeg" alt="" /></a>
             <a href="https://www.instagram.com/aaayuuussh?igsh=NGU4YTZzbWg4ZnF3" rel="noreferrer" target="_blank" ><img src="./instagram.png" alt="" /></a>
             <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" rel="noreferrer" target="_blank" ><img src="./naukri.png" alt="" /></a>
         </div>
