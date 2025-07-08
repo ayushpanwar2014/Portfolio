@@ -7,38 +7,43 @@ const items = [
 
     {
         id: 1,
-        title: "Luma-AI",
-        img: "./1.png",
-        desc: "Luma-AI is my latest project, inspired by Google’s Gemini AI, integrated with an API key for seamless performance. Additionally, I built secure login, logout, and registration pages using the MERN stack, making it user-friendly and scalable.",
-        url: "https://ayushpanwar2014.github.io/Luma-AI/",
+        title: "Prescripto – Healthcare Appointment Booking System",
+        img: "./Prescripto.png",
+        desc: "Prescripto is a full-stack role-based healthcare appointment system designed for patients, doctors, and administrators. Patients can book appointments, pay via Razorpay or cash, and manage their profiles. Doctors can approve, cancel, and complete appointments, while Admins handle doctor onboarding and monitor analytics.",
+        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_mernstack-reactjs-nodejs-activity-7348232978621218816-KxwM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck",
+        GithubUrl: "https://github.com/ayushpanwar2014/Prescripto"
     },
     {
         id: 2,
-        title: "IChat App",
-        img: "./2.jpeg",
-        desc: "Empowering real-time connections with React and Firebase: Building a cutting-edge chat application to enhance communication and collaboration.",
-        url: "https://ayushpanwar2014.github.io/Ichat/",
+        title: "FoodoMart – Online Food Ordering Platform",
+        img: "./Foodomart.png",
+        desc: "FoodoMart is a dynamic food ordering platform where users can browse restaurants, add items to cart, and track their orders in real-time. Admins can manage menus, control restaurant listings, and view user order data.",
+        GithubUrl: "https://github.com/ayushpanwar2014/FoodoMart",
+        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_mern-webdevelopment-fullstack-activity-7320412981182230530-6sqh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
     },
     {
         id: 3,
-        title: "Addidas Website",
-        img: "./5.png",
-        desc: "A simple, animated Adidas-inspired website with smooth transitions and interactive hover effects. It includes a header with navigation, a homepage with text animations, a product list with hover effects, and a footer.",
-        url: "https://ayushpanwar2014.github.io/Adidas/",
+        title: "Blog App – Full-Stack Blogging Platform",
+        img: "./BlogAPP.png",
+        desc: "A full-stack blog application built with Next.js and MongoDB that allows users to register, log in, and manage blog posts with SEO-optimized routing and dynamic content handling.",
+        GithubUrl: "https://github.com/ayushpanwar2014/Blog-App",
+        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_nextjs-mongodb-fullstack-activity-7308786494284931072-SW-t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
     },
     {
         id: 4,
-        title: "Sneaker Website",
-        img: "./3.jpeg",
-        desc: "Empower Your Stride: Crafting the Ultimate Nike Experience with HTML, CSS, and JavaScript!",
-        url: "https://ayushpanwar2014.github.io/Sneaker-Website/",
+        title: "Shopper – E-commerce Web App",
+        img: "./Shopper.png",
+        desc: "Shopper is a full-featured e-commerce platform allowing users to browse products, manage their cart, and place orders. Admins can manage products and monitor order analytics.",
+        GithubUrl: "https://github.com/ayushpanwar2014/Shopper",
+        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_mern-fullstackdevelopment-ecommerce-activity-7298918138258067456-Shqw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
     },
     {
         id: 5,
-        title: "Movie App",
-        img: "./4.jpeg",
-        desc: "🎬 Lights, Camera, Action! 🍿 Excited to announce the launch of our new movie website! Dive into a world of cinematic wonders with exclusive content, trailers, and more. Join us as we redefine the movie experience, one click at a time. Discover the magic today!",
-        url: "https://moviemingle-com.github.io/moviemingle/",
+        title: "Sneaker Website",
+        img: "./3.jpeg",
+        desc: "Empower Your Stride: Crafting the Ultimate Nike Experience with HTML, CSS, and JavaScript!",
+        GithubUrl: "https://ayushpanwar2014.github.io/Sneaker-Website/",
+        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_webdevelopment-html-css-activity-7161366083818463233-ghno?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
     },
 ]
 
@@ -60,11 +65,14 @@ const Single = ({ item }) => {
                     <div className="imageContainer" ref={ref} >
                         <img src={item.img} alt="" />
                     </div>
-                    <motion.div className="textContainer" style={{y}}>
-                        <h2>{item.title}</h2>
-                        <p>{item.desc}</p>
-                        <a target="_blank" href={item.url}>
-                        <button>See Demo</button>
+                    <motion.div className="textContainer" style={{ y }}>
+                        <h1>{item.title}</h1>
+                        <p >{item.desc}</p>
+                        <a target="_blank" href={item.LinkedinUrl} rel="noreferrer">
+                            <button>In Linkedin</button>
+                        </a>
+                        <a target="_blank" href={item.GithubUrl} rel="noreferrer">
+                            <button>Gituhub</button>
                         </a>
                     </motion.div>
                 </div>
@@ -89,7 +97,7 @@ const Portfolio = () => {
 
     return (
         <div className="portfolio" ref={ref} >
-            <div className="progress">
+            <div id="work" className="progress">
                 <h1>Featured Works</h1>
                 <motion.div style={{ scaleX }} className="progressBar"></motion.div>
             </div>
