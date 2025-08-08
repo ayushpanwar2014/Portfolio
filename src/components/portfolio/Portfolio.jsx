@@ -26,7 +26,7 @@ const items = [
         img: "./BlogAPP.png",
         desc: "A full-stack blog application built with Next.js and MongoDB that allows users to register, log in, and manage blog posts with SEO-optimized routing and dynamic content handling.",
         GithubUrl: "https://github.com/ayushpanwar2014/Blog-App",
-        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_nextjs-mongodb-fullstack-activity-7308786494284931072-SW-t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
+        LinkedinUrl: "https://blog-app-jet-eta.vercel.app/"
     },
     {
         id: 4,
