@@ -1,5 +1,4 @@
 import { useRef } from "react"
-import React from "react";
 import "./Portfolio.scss"
 import { motion, useScroll, useSpring, useTransform } from "framer-motion"
 
@@ -10,7 +9,7 @@ const items = [
         title: "Prescripto – Healthcare Appointment Booking System",
         img: "./Prescripto.png",
         desc: "Prescripto is a full-stack role-based healthcare appointment system designed for patients, doctors, and administrators. Patients can book appointments, pay via Razorpay or cash, and manage their profiles. Doctors can approve, cancel, and complete appointments, while Admins handle doctor onboarding and monitor analytics.",
-        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_mernstack-reactjs-nodejs-activity-7348232978621218816-KxwM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck",
+        LinkedinUrl: "https://prescripto-theta-weld.vercel.app/",
         GithubUrl: "https://github.com/ayushpanwar2014/Prescripto"
     },
     {
