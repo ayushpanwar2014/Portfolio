@@ -68,7 +68,7 @@ const Single = ({ item }) => {
                         <h1>{item.title}</h1>
                         <p >{item.desc}</p>
                         <a target="_blank" href={item.LinkedinUrl} rel="noreferrer">
-                            <button>In Linkedin</button>
+                            <button>App Link</button>
                         </a>
                         <a target="_blank" href={item.GithubUrl} rel="noreferrer">
                             <button>Gituhub</button>
