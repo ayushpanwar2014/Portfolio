@@ -10,7 +10,8 @@ ____
 ## 🚀 Featured Projects:
 
 <img width="1360" height="909" alt="Prescripto" src="https://github.com/user-attachments/assets/75b6926a-abfc-4d85-86a6-a746770b1c3c" />
-## 🩺 [Prescripto – Healthcare Appointment Booking System](https://github.com/ayushpanwar2014/Prescripto)
+## 🩺 Prescripto – Healthcare Appointment Booking System
+[GitHub](https://github.com/ayushpanwar2014/Prescripto)
 A role-based full-stack app for patients, doctors, and admins with appointment booking, Razorpay integration, and admin analytics.
 ---
 <img width="1360" height="900" alt="Foodomart" src="https://github.com/user-attachments/assets/ee0479cf-9332-48ed-84a6-837407682c8e" />
