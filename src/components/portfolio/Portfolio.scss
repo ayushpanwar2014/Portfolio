@@ -24,7 +24,10 @@
         }
     }
 
-    .container {
+    
+}
+
+.container {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -79,6 +82,7 @@
 
                 h1{
                     font-size: 42px;
+                    color: rgb(219, 219, 219);
                     @include mobile{
                         font-size: 22px;
                     }
@@ -98,8 +102,11 @@
                     padding: 10px;
                     width: 200px;
                     cursor: pointer;
+                    transition: background-color 0.3s ease; 
+                }
+                button:hover{
+                    background-color: rgb(255, 193, 77);
                 }
             }
         }
     }
-}

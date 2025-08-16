@@ -99,10 +99,11 @@ const Portfolio = () => {
             <div id="work" className="progress">
                 <h1>Featured Works</h1>
                 <motion.div style={{ scaleX }} className="progressBar"></motion.div>
-            </div>
             {items.map((item) => (
                 <Single item={item} key={item.id} />
             ))}
+            </div>
+
         </div>
     )
 }
