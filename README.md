@@ -45,9 +45,10 @@ SEO-optimized blog app built with Next.js and MongoDB, featuring dynamic routing
 <img width="1356" height="947" alt="BlogAPP" src="https://github.com/user-attachments/assets/06c2d1e2-2908-4f64-9e7d-c865e8b02438" />
 
 ---
-![3](https://github.com/user-attachments/assets/964e326d-9894-495e-b235-ebda97650ba9)
 ## 👟 [Sneaker Website](https://ayushpanwar2014.github.io/Sneaker-Website/)**
-  A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
+A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
+  
+![3](https://github.com/user-attachments/assets/964e326d-9894-495e-b235-ebda97650ba9)
 
 ---
 
