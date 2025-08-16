@@ -48,6 +48,14 @@ SEO-optimized blog app built with Next.js and MongoDB, featuring dynamic routing
 ## 👟 [Sneaker Website](https://ayushpanwar2014.github.io/Sneaker-Website/)**
 A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
 
+![3](https://github.com/user-attachments/assets/0774472e-2749-465d-b553-b5a4f4a1f374)
+
+
+
+- 💬Ask me about **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
+
+- 📫 How to reach me **ayush.panwar2014@gmail.com**
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
@@ -57,10 +65,6 @@ A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpanwar2014&show_icons=true&locale=en" alt="ayushpanwar2014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpanwar2014&" alt="ayushpanwar2014" /></p>
-  
-![3](https://github.com/user-attachments/assets/964e326d-9894-495e-b235-ebda97650ba9)
-
----
 
 
 
