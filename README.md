@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0038F7&width=435&height=100&lines=Hey+there!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayush+Singh+Panwar;This+is+my+Portfoiio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0038F7&multiline=true&width=435&height=60&lines=Hey+there!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ayush+Singh+Panwar;This+is+my+Portfoiio)](https://git.io/typing-svg)
 
 <img width="1360" height="1128" alt="Portfolio" src="https://github.com/user-attachments/assets/5afbbb92-2246-46a7-8bc7-c9785091483c" />
 
