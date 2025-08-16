@@ -17,8 +17,8 @@ const items = [
         title: "FoodoMart – Online Food Ordering Platform",
         img: "./Foodomart.png",
         desc: "FoodoMart is a dynamic food ordering platform where users can browse restaurants, add items to cart, and track their orders in real-time. Admins can manage menus, control restaurant listings, and view user order data.",
-        GithubUrl: "https://github.com/ayushpanwar2014/FoodoMart",
-        LinkedinUrl: "https://www.linkedin.com/posts/ayush-panwar-a21712189_mern-webdevelopment-fullstack-activity-7320412981182230530-6sqh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxsCDkBo819QNyXD8_icp4HCIHrdv56tck"
+        LinkedinUrl: "https://github.com/ayushpanwar2014/FoodoMart",
+        GithubUrl: "fhttps://foodo-mart.vercel.app"
     },
     {
         id: 3,
