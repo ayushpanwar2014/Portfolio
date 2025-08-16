@@ -1,5 +1,6 @@
 
-## 👋 Hi, I'm Aayush Panwar**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006AF7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayush+Singh+Panwar)](https://git.io/typing-svg)
+
 Welcome to my portfolio repository! I'm a full-stack MERN developer passionate about building scalable web applications and modern user experiences. Below you'll find a showcase of some of my top projects
 ---
 ## 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-panwar-a21712189/)
@@ -48,8 +49,7 @@ SEO-optimized blog app built with Next.js and MongoDB, featuring dynamic routing
 ## 👟 [Sneaker Website](https://ayushpanwar2014.github.io/Sneaker-Website/)**
 A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
 
-![3](https://github.com/user-attachments/assets/0774472e-2749-465d-b553-b5a4f4a1f374)
-
+<img width="1205" height="624" alt="Screenshot 2025-08-16 at 8 11 08 AM" src="https://github.com/user-attachments/assets/fb624996-151b-4769-886f-71e8d8cba478" />
 
 
 - 💬Ask me about **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
