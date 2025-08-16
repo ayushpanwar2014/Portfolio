@@ -11,11 +11,12 @@ ____
 
 <img width="1360" height="909" alt="Prescripto" src="https://github.com/user-attachments/assets/75b6926a-abfc-4d85-86a6-a746770b1c3c" />
 ## 🩺 [Prescripto – Healthcare Appointment Booking System](https://github.com/ayushpanwar2014/Prescripto)
-  A role-based full-stack app for patients, doctors, and admins with appointment booking, Razorpay integration, and admin analytics.
+A role-based full-stack app for patients, doctors, and admins with appointment booking, Razorpay integration, and admin analytics.
 ---
 <img width="1360" height="900" alt="Foodomart" src="https://github.com/user-attachments/assets/ee0479cf-9332-48ed-84a6-837407682c8e" />
-## 🍔 [FoodoMart – Online Food Ordering Platform](https://github.com/ayushpanwar2014/FoodoMart)**
-  A real-time food ordering system with cart management, admin panel, and restaurant control features.
+## 🍔 FoodoMart – Online Food Ordering Platform 
+([GitHub]https://github.com/ayushpanwar2014/FoodoMart)
+A real-time food ordering system with cart management, admin panel, and restaurant control features.
 ---
 <img width="1356" height="947" alt="BlogAPP" src="https://github.com/user-attachments/assets/06c2d1e2-2908-4f64-9e7d-c865e8b02438" />
 ## 📝 [Blog App – Full-Stack Blogging Platform](https://github.com/ayushpanwar2014/Blog-App)**
