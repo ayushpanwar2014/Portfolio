@@ -8,7 +8,7 @@ const items = [
         id: 1,
         title: "Prescripto – Healthcare Appointment Booking System",
         img: "./Prescripto.png",
-        desc: "Prescripto is a full-stack role-based healthcare appointment system designed for patients, doctors, and administrators. Patients can book appointments, pay via Razorpay or cash, and manage their profiles. Doctors can approve, cancel, and complete appointments, while Admins handle doctor onboarding and monitor analytics.",
+        desc: "Prescripto is a full-stack healthcare appointment system with role-based access. Patients can book and pay for appointments, doctors manage schedules, and admins oversee onboarding and analytics.",
         LinkedinUrl: "https://prescripto-theta-weld.vercel.app/",
         GithubUrl: "https://github.com/ayushpanwar2014/Prescripto"
     },
@@ -99,9 +99,9 @@ const Portfolio = () => {
             <div id="work" className="progress">
                 <h1>Featured Works</h1>
                 <motion.div style={{ scaleX }} className="progressBar"></motion.div>
-            {items.map((item) => (
-                <Single item={item} key={item.id} />
-            ))}
+                {items.map((item) => (
+                    <Single item={item} key={item.id} />
+                ))}
             </div>
 
         </div>
