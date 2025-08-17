@@ -31,36 +31,39 @@ ____
 ## 🚀 Featured Projects:
 
 ## [🩺 Prescripto – Healthcare Appointment Booking System](https://github.com/ayushpanwar2014/Prescripto)
-A role-based full-stack app for patients, doctors, and admins with appointment booking, Razorpay integration, and admin analytics.
+- A role-based full-stack app for patients, doctors, and admins with appointment booking, Razorpay integration, and admin analytics.
 
 <img width="1360" height="909" alt="Prescripto" src="https://github.com/user-attachments/assets/75b6926a-abfc-4d85-86a6-a746770b1c3c" />
 
 ---
 ## [🍔 FoodoMart – Online Food Ordering Platform](https://github.com/ayushpanwar2014/FoodoMart)
-A real-time food ordering system with cart management, admin panel, and restaurant control features.
+- A real-time food ordering system with cart management, admin panel, and restaurant control features.
     
 <img width="1360" height="900" alt="Foodomart" src="https://github.com/user-attachments/assets/ee0479cf-9332-48ed-84a6-837407682c8e" />
 
 ---
 ## 📝 [Blog App – Full-Stack Blogging Platform](https://github.com/ayushpanwar2014/Blog-App)
-SEO-optimized blog app built with Next.js and MongoDB, featuring dynamic routing and full CRUD functionality.
+- SEO-optimized blog app built with Next.js and MongoDB, featuring dynamic routing and full CRUD functionality.
 
 <img width="1356" height="947" alt="BlogAPP" src="https://github.com/user-attachments/assets/06c2d1e2-2908-4f64-9e7d-c865e8b02438" />
 
 ---
 ## 👟 [Sneaker Website](https://ayushpanwar2014.github.io/Sneaker-Website/)**
-A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
+- A visually engaging Nike landing page built using HTML, CSS, and JavaScript.
 
 <img width="1205" height="624" alt="Screenshot 2025-08-16 at 8 11 08 AM" src="https://github.com/user-attachments/assets/fb624996-151b-4769-886f-71e8d8cba478" />
 
 
-- 💬Ask me about **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
+- 💬Ask me about
+- **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
 
-- 📫 How to reach me **ayush.panwar2014@gmail.com**
+- 📫 How to reach me
+- **ayush.panwar2014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
 
-- ⚡ Fun fact **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
+- ⚡ Fun fact
+- **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpanwar2014&show_icons=true&locale=en&layout=compact" alt="ayushpanwar2014" /></p>
 
